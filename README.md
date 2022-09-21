@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cooltext419703333181770.gif](https://r73.cooltext.com/rendered/cooltext419703333181770.gif)
+![](https://images.cooltext.com/5620368.gif)
 
 
 
