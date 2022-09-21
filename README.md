@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-####ESTE ES MI HORARIO
+### ESTE ES MI HORARIO
 |  	| LUN 	| MAR 	| MIE 	| JUE 	| VIE 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 13:00 	|  	|  	|  	|  	|  	|
