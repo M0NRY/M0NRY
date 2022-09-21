@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![](https://images.cooltext.com/5620368.gif)
 
--ESTUDIANTE DE INGENIERIA EN SISTEMAS
+-ESTUDIANTE DE INGENIERIA EN SISTEMAS EN EL ITT⚡-
 
 
 
-### ESTE ES MI HORARIO
+### ---ESTE ES MI HORARIO---
 |  	| LUN 	| MAR 	| MIE 	| JUE 	| VIE 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 13:00 	|  	|  	|  	|  	|  	|
